@@ -8,4 +8,3 @@
  - [Linkedin](www.linkedin.com/in/huysynf)
  - [Gmail](mailto:Haqhuy1999@gmail.com)
  - [Medium](https://medium.com/@huysynf)
-- 
