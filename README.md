@@ -11,3 +11,6 @@
  - [Gmail](mailto:Haqhuy1999@gmail.com)
  - [Medium](https://medium.com/@huysynf)
  - [Hacker Rank](https://www.hackerrank.com/Huy_erk)
+ - [Github](https://github.com/huysynf)
+ - [Gitlab](https://gitlab.com/erkhuy)
+ - [Medium](https://medium.com/@huysynf)
