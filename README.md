@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @huysynf
 # I Work As SoftWare Engineer
-# Certificate I Have:
+# Certificate:
 - [Zend PHP Certified Engineer](https://www.zend-zce.com/en/yellow-pages/ZEND033233)
 - [Laravel Certificate](https://exam.laravelcert.com/is/ha-quang-huy/certified-since/2021-10-25?)
 - [JavaScript CIW Specialist](https://drive.google.com/file/d/1enMQ4KXa2dLdqbIsBQ1F6RHVR9C2a3RJ/view?usp=sharing)
