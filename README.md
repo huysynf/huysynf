@@ -14,3 +14,4 @@
  - [Github](https://github.com/huysynf)
  - [Gitlab](https://gitlab.com/erkhuy)
  - [Medium](https://medium.com/@huysynf)
+ - [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64561da805999de060bb979e?variant=dark)](https://roadmap.sh)
