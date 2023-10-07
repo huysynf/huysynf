@@ -5,6 +5,7 @@
 - [Laravel Certificate](https://exam.laravelcert.com/is/ha-quang-huy/certified-since/2021-10-25?)
 - [JavaScript CIW Specialist](https://drive.google.com/file/d/1enMQ4KXa2dLdqbIsBQ1F6RHVR9C2a3RJ/view?usp=sharing)
 - [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1oOwpG3wN6khBWfkae3mpSRV4OIYzPkeF/view)
+- [AWS Certified Developer - Associate](https://drive.google.com/file/d/16sa0grtB2jo6cSie5uTIWxUOHEZKeI63/view?usp=sharing)
 
 # Contact:
  - [Linkedin](www.linkedin.com/in/huysynf)
