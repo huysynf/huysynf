@@ -9,10 +9,10 @@
 
 # Contact:
  - [Linkedin](www.linkedin.com/in/huysynf)
- - [Gmail](mailto:Haqhuy1999@gmail.com)
+ - [Gmail](mailto:huyhq.developer@gmail.com)
  - [Medium](https://medium.com/@huysynf)
  - [Hacker Rank](https://www.hackerrank.com/Huy_erk)
  - [Github](https://github.com/huysynf)
- - [Gitlab](https://gitlab.com/erkhuy)
+ - [Gitlab](https://gitlab.com/huysynf)
  - [Medium](https://medium.com/@huysynf)
  - [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64561da805999de060bb979e?variant=dark)](https://roadmap.sh)
