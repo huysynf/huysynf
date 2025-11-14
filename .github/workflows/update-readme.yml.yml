@@ -1,0 +1,26 @@
+name: Update experience in README
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' 
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Calculate experience years
+        run: |
+          python calculate_experience.py > experience.txt
+      - name: Update README.md
+        run: |
+          years=$(cat experience.txt)
+          sed -i "s/<EXPERIENCE_YEARS>/$years/" README.md
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update years of experience in README.md"
+          git push
