@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @huysynf, a Software Engineer from Vietnam with <EXPERIENCE_YEARS> years of experience in application and platform development. I own over 100 open-source projects on GitHub and have a passion for exploring new technologies.
+# 👋 Hi, I’m @huysynf, a Software Engineer from Vietnam with 6 years of experience in application and platform development. I own over 100 open-source projects on GitHub and have a passion for exploring new technologies.
 
 #I hold several globally recognized certifications, including:
 
