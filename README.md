@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=huysynf&show_icons=true)
 ---
-#I hold several globally recognized certifications, including:
+# I hold several globally recognized certifications, including:
 
 - [Zend PHP Certified Engineer](https://www.zend-zce.com/en/yellow-pages/ZEND033233)
 - [Laravel Certificate](https://exam.laravelcert.com/is/ha-quang-huy/certified-since/2021-10-25?)
@@ -13,6 +13,7 @@
 - [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/huysynf/CA59E1BEF8B8A0D6?sharingId=8AD3F5264BA93CFD)
 
 My expertise allows me to deliver optimal solutions matching real-world business and community requirements. I am always seeking opportunities to learn, collaborate, and build sustainable value.
+---
 # Contact:
  - [Linkedin](www.linkedin.com/in/huysynf)
  - [Gmail](mailto:huyhq.developer@gmail.com)
