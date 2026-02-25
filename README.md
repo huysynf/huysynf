@@ -1,5 +1,6 @@
 # 👋 Hi, I’m @huysynf, a Software Engineer from Vietnam with 6 years of experience in application and platform development. I own over 100 open-source projects on GitHub and have a passion for exploring new technologies.
 
+![GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=huysynf&show_icons=true)
 #I hold several globally recognized certifications, including:
 
 - [Zend PHP Certified Engineer](https://www.zend-zce.com/en/yellow-pages/ZEND033233)
