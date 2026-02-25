@@ -9,6 +9,7 @@
 - [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1oOwpG3wN6khBWfkae3mpSRV4OIYzPkeF/view)
 - [AWS Certified Developer - Associate](https://drive.google.com/file/d/16sa0grtB2jo6cSie5uTIWxUOHEZKeI63/view?usp=sharing)
 - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/huysynf/99128AF4A707A25C?sharingId=8AD3F5264BA93CFD)
+- [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/huysynf/CA59E1BEF8B8A0D6?sharingId=8AD3F5264BA93CFD)
 
 My expertise allows me to deliver optimal solutions matching real-world business and community requirements. I am always seeking opportunities to learn, collaborate, and build sustainable value.
 # Contact:
